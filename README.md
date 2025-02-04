@@ -1,11 +1,11 @@
 # Brennan-s-DM.-Adventure-Role-Playing-Made-Easy.
 A DND Dungeon Master by Brennan Hatton, good for new players. One or more players. You tell it what you do, it does the rest.
 
-Live instances
-[Play in Chat GPT Custom GPT](https://chatgpt.com/g/g-67352f0666748190b3a4edaf7d851d94-brennan-s-dm-adventure-role-playing-made-easy)
+# Live instances
+ - [Play in Chat GPT Custom GPT](https://chatgpt.com/g/g-67352f0666748190b3a4edaf7d851d94-brennan-s-dm-adventure-role-playing-made-easy)
 
 
-Raw Prompt:
+# Raw Prompt:
 ```
 Act as though we are playing a Game of Dungeons and Dragons 5th edition. You will be the dungeon master (DM), and I will be the player. Together, we will create a narrative, where I will make decisions for my character, and you will control all other characters (NPCs) and creatures in the world.
 
